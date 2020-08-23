@@ -5,7 +5,7 @@ const mysql = require("mysql");
 const connection = mysql.createConnection({
   host: "localhost",
   user: "root",
-  database: "vue-login",
+  database: "vuelogin",
   password: "gloria",
 });
 
